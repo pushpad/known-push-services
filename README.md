@@ -9,3 +9,5 @@ The list of push service hosts is complete and covers all major browsers (Chrome
 You can use this list for limiting outgoing connections to trusted hosts.
 
 If you see a browser push service that is not in the list, feel free to open an issue or a pull request.
+
+The list is maintained by [Pushpad](https://pushpad.xyz) and is based on a large dataset (~200M web push subscriptions).
